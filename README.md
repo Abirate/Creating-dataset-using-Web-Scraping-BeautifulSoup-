@@ -57,5 +57,5 @@ Abir ELTAIEF :
 This work is licensed under a Creative Commons Attribution 4.0 International License (all software and libraries used for web scraping are made available under this Creative Commons Attribution license).
 
 #### Contributions 
-Thanks to [@Abirate](https://tn.linkedin.com/in/abir-eltaief-pmp%C2%AE-469048115)
+Thanks to [@Abirate](https://github.com/Abirate)
  for adding this dataset. 
